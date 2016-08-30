@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>lovia-Hexo</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lovia.com/"/>
+  <updated>2016-08-30T07:14:52.000Z</updated>
+  <id>http://lovia.com/</id>
+  
+  <author>
+    <name>lovia</name>
+    <email>loviahoohoo@163.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>adele is for you</title>
+    <link href="http://lovia.com/2016/08/30/adele-is-for-you/"/>
+    <id>http://lovia.com/2016/08/30/adele-is-for-you/</id>
+    <published>2016-08-30T07:14:51.000Z</published>
+    <updated>2016-08-30T07:14:52.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lovia.com/2016/08/24/hello-world/"/>
+    <id>http://lovia.com/2016/08/24/hello-world/</id>
+    <published>2016-08-24T08:07:49.050Z</published>
+    <updated>2016-08-24T09:23:50.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>##这是第一篇文章</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;##这是第一篇文章&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="hexo" scheme="http://lovia.com/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://lovia.com/tags/hexo/"/>
+    
+      <category term="javascript" scheme="http://lovia.com/tags/javascript/"/>
+    
+  </entry>
+  
+</feed>
